@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-11T19:23:10 IST" name="Loan" finished-at="2024-09-11T19:23:10 IST" duration-ms="67">
+    <groups>
+      <group name="Smoke">
+        <method signature="day2.carLoanOtr()[pri:0, instance:TestPrac.copy.day2@4d154ccd]" name="carLoanOtr" class="TestPrac.copy.day2"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2024-09-11T19:23:10 IST" name="CarLoan" finished-at="2024-09-11T19:23:10 IST" duration-ms="67">
+      <class name="TestPrac.copy.day2">
+        <test-method signature="carLoanAppium()[pri:0, instance:TestPrac.copy.day2@4d154ccd]" started-at="2024-09-11T19:23:10 IST" name="carLoanAppium" finished-at="2024-09-11T19:23:10 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoanAppium -->
+        <test-method signature="carLoanOtr()[pri:0, instance:TestPrac.copy.day2@4d154ccd]" started-at="2024-09-11T19:23:10 IST" name="carLoanOtr" finished-at="2024-09-11T19:23:10 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoanOtr -->
+      </class> <!-- TestPrac.copy.day2 -->
+      <class name="TestPrac.copy.day1">
+        <test-method is-config="true" signature="bfsuite()[pri:0, instance:TestPrac.copy.day1@3012646b]" started-at="2024-09-11T19:23:10 IST" name="bfsuite" finished-at="2024-09-11T19:23:10 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfsuite -->
+        <test-method is-config="true" signature="bfclass()[pri:0, instance:TestPrac.copy.day1@3012646b]" started-at="2024-09-11T19:23:10 IST" name="bfclass" finished-at="2024-09-11T19:23:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfclass -->
+        <test-method signature="carLoanWeb()[pri:0, instance:TestPrac.copy.day1@3012646b]" started-at="2024-09-11T19:23:10 IST" name="carLoanWeb" finished-at="2024-09-11T19:23:10 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoanWeb -->
+        <test-method signature="carLoanzzz(java.lang.String)[pri:0, instance:TestPrac.copy.day1@3012646b]" started-at="2024-09-11T19:23:10 IST" name="carLoanzzz" finished-at="2024-09-11T19:23:10 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[www.rinku.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoanzzz -->
+        <test-method is-config="true" signature="afclass()[pri:0, instance:TestPrac.copy.day1@3012646b]" started-at="2024-09-11T19:23:10 IST" name="afclass" finished-at="2024-09-11T19:23:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afclass -->
+        <test-method is-config="true" signature="afsuite()[pri:0, instance:TestPrac.copy.day1@3012646b]" started-at="2024-09-11T19:23:10 IST" name="afsuite" finished-at="2024-09-11T19:23:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afsuite -->
+      </class> <!-- TestPrac.copy.day1 -->
+    </test> <!-- CarLoan -->
+  </suite> <!-- Loan -->
+</testng-results>
